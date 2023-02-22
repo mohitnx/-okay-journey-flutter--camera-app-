@@ -1,4 +1,5 @@
 # cameraa
+# can shoot from both front and rear camera. The captured photos can be stored in local storage
 # apk can be found in release-apk folder
 # screenshots
 ![image](https://user-images.githubusercontent.com/74180772/220734242-2bac7d8e-0053-4b1b-bdc1-fa7e5517d999.png)
